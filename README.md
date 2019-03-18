@@ -4,8 +4,8 @@
 - 功能与Android基本版本完全一致.
 - 当前的仅仅演示列出一个类的功能, 实际在代码中有其他的各种功能, 后续会陆续更新演示.
 
-
-
+# ANDROID基本免费版下载地址:
+- https://github.com/LanSoSdk/LanSoEditor_common
 # 专业版架构介绍
 ![架构示意图](https://github.com/LanSoSdk/LanSoEditor_advance/blob/master/SDK%E6%9E%B6%E6%9E%84%E5%9B%BE%E7%89%87.png)
 -  专业版SDK,图层架构,可以做各种视频特效, 并支持AE模板,微商小视频,抖音趣拍等效果: 
